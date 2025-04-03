@@ -1,0 +1,654 @@
+{
+  "gamme": "Les Jardins de Fragonard",
+  "parfums": [
+    {
+      "nom": "Grenade Pivoine",
+      "description": "Notes éclatantes de la grenade sur un cœur de pivoine et d’absolue de rose, fond boisé de chêne et de cèdre.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF059",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "parfum": [
+          {
+            "format": "VAPORISATEUR ALU DORÉ 120 ML",
+            "ref": "JFP09120",
+            "prix": "105 €",
+            "pp100ml": "87,50*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 60 ML",
+            "ref": "JFP09060",
+            "prix": "72 €",
+            "pp100ml": "120*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 30 ML",
+            "ref": "JFP09030",
+            "prix": "50 €",
+            "pp100ml": "166,67*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 15 ML",
+            "ref": "JFP09015",
+            "prix": "36 €",
+            "pp100ml": "240*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS159",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON EN VERRE Ø 13 CM",
+            "ref": "JFSP159",
+            "prix": "24 €"
+          },
+          {
+            "format": "CREME MAINS TUBE 75 ML",
+            "ref": "JFCM759",
+            "prix": "12 €",
+            "pp100ml": "16*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Jasmin Perle de Thé",
+      "description": "Thé vert et jasmin dans un jardin andalou, sensation capiteuse, beauté et féminité.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF052",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "parfum": [
+          {
+            "format": "VAPORISATEUR ALU DORÉ 120 ML",
+            "ref": "JFP02120",
+            "prix": "105 €",
+            "pp100ml": "87,50*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 60 ML",
+            "ref": "JFP02060",
+            "prix": "72 €",
+            "pp100ml": "120*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 30 ML",
+            "ref": "JFP02030",
+            "prix": "50 €",
+            "pp100ml": "166,67*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 15 ML",
+            "ref": "JFP02015",
+            "prix": "36 €",
+            "pp100ml": "240*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS152",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON EN VERRE Ø 13 CM",
+            "ref": "JFSP152",
+            "prix": "22 €"
+          },
+          {
+            "format": "CREME MAINS TUBE 75 ML",
+            "ref": "JFCM752",
+            "prix": "12 €",
+            "pp100ml": "16*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Menthe Basilic",
+      "description": "Notes de menthe et de basilic pimenté, rafraîchissant.",
+      "produits": {
+        "maison": [
+          {
+            "format": "DIFFUSEUR FLACON 200 ML + 10 BÂTONNETS",
+            "ref": "JFD202",
+            "prix": "37 €",
+            "pp100ml": "18,50*"
+          },
+          {
+            "format": "BOUGIE 200 G DANS UN POT MÉTAL",
+            "ref": "JFB202",
+            "prix": "34 €",
+            "pp100ml": "17*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Rose Lavande",
+      "description": "Poire, pivoine, lavande, rose, fève tonka et feuilles de violette. Voyage en Provence.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF058",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "parfum": [
+          {
+            "format": "VAPORISATEUR ALU DORÉ 120 ML",
+            "ref": "JFP08120",
+            "prix": "105 €",
+            "pp100ml": "87,50*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 60 ML",
+            "ref": "JFP08060",
+            "prix": "72 €",
+            "pp100ml": "120*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 30 ML",
+            "ref": "JFP08030",
+            "prix": "50 €",
+            "pp100ml": "166,67*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 15 ML",
+            "ref": "JFP08015",
+            "prix": "36 €",
+            "pp100ml": "240*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS158",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON EN VERRE Ø 13 CM",
+            "ref": "JFSP158",
+            "prix": "22 €"
+          },
+          {
+            "format": "CREME MAINS TUBE 75 ML",
+            "ref": "JFCM758",
+            "prix": "12 €",
+            "pp100ml": "16*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Anis Étoilé Lavande",
+      "description": "Parfum vert d’un anis étoilé frais, lavande pétillante et citronnée.",
+      "produits": {
+        "maison": [
+          {
+            "format": "DIFFUSEUR FLACON 200 ML + 10 BÂTONNETS",
+            "ref": "JFD208",
+            "prix": "37 €",
+            "pp100ml": "18,50*"
+          },
+          {
+            "format": "BOUGIE 200 G DANS UN POT MÉTAL",
+            "ref": "JFB208",
+            "prix": "34 €",
+            "pp100ml": "17*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Jasmin Perle de Thé",
+      "description": "Le thé vert désaltère dans un jardin andalou, avec les jasmins en fleurs. Une sensation capiteuse tout en beauté et féminité.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF052",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "parfum": [
+          {
+            "format": "VAPORISATEUR ALU DORÉ 120 ML",
+            "ref": "JFP02120",
+            "prix": "105 €",
+            "pp100ml": "87,50*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 60 ML",
+            "ref": "JFP02060",
+            "prix": "72 €",
+            "pp100ml": "120*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 30 ML",
+            "ref": "JFP02030",
+            "prix": "50 €",
+            "pp100ml": "166,67*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 15 ML",
+            "ref": "JFP02015",
+            "prix": "36 €",
+            "pp100ml": "240*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS152",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON EN VERRE Ø 13 CM",
+            "ref": "JFSP152",
+            "prix": "22 €"
+          },
+          {
+            "format": "CREME MAINS TUBE 75 ML",
+            "ref": "JFCM752",
+            "prix": "12 €",
+            "pp100ml": "16*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Menthe Basilic",
+      "description": "Un diffuseur aux notes de menthe et de basilic pimenté tel un vent vif et rafraîchissant.",
+      "produits": {
+        "maison": [
+          {
+            "format": "DIFFUSEUR FLACON 200 ML + 10 BÂTONNETS",
+            "ref": "JFD202",
+            "prix": "37 €",
+            "pp100ml": "18,50*"
+          },
+          {
+            "format": "BOUGIE 200 G DANS UN POT MÉTAL",
+            "ref": "JFB202",
+            "prix": "34 €",
+            "pp100ml": "17*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Rose Lavande",
+      "description": "Poire, pivoine, lavande, rose, fève tonka et feuilles de violette : un voyage en Provence.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF058",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "parfum": [
+          {
+            "format": "VAPORISATEUR ALU DORÉ 120 ML",
+            "ref": "JFP08120",
+            "prix": "105 €",
+            "pp100ml": "87,50*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 60 ML",
+            "ref": "JFP08060",
+            "prix": "72 €",
+            "pp100ml": "120*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 30 ML",
+            "ref": "JFP08030",
+            "prix": "50 €",
+            "pp100ml": "166,67*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 15 ML",
+            "ref": "JFP08015",
+            "prix": "36 €",
+            "pp100ml": "240*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS158",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON EN VERRE Ø 13 CM",
+            "ref": "JFSP158",
+            "prix": "22 €"
+          },
+          {
+            "format": "CREME MAINS TUBE 75 ML",
+            "ref": "JFCM758",
+            "prix": "12 €",
+            "pp100ml": "16*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Anis Étoilé Lavande",
+      "description": "Le parfum vert d’un anis étoilé très frais, magnifié par une lavande pétillante et citronnée.",
+      "produits": {
+        "maison": [
+          {
+            "format": "DIFFUSEUR FLACON 200 ML + 10 BÂTONNETS",
+            "ref": "JFD208",
+            "prix": "37 €",
+            "pp100ml": "18,50*"
+          },
+          {
+            "format": "BOUGIE 200 G DANS UN POT MÉTAL",
+            "ref": "JFB208",
+            "prix": "34 €",
+            "pp100ml": "17*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Héliotrope Gingembre",
+      "description": "Un voyage oriental doux et envoûtant, inspiré des célèbres jardins moghols.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF054",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "parfum": [
+          {
+            "format": "VAPORISATEUR ALU DORÉ 120 ML",
+            "ref": "JFP04120",
+            "prix": "105 €",
+            "pp100ml": "87,50*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 60 ML",
+            "ref": "JFP04060",
+            "prix": "72 €",
+            "pp100ml": "120*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 30 ML",
+            "ref": "JFP04030",
+            "prix": "50 €",
+            "pp100ml": "166,67*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 15 ML",
+            "ref": "JFP04015",
+            "prix": "36 €",
+            "pp100ml": "240*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS154",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON EN VERRE Ø 13 CM",
+            "ref": "JFSP154",
+            "prix": "24 €"
+          },
+          {
+            "format": "CREME MAINS TUBE 75 ML",
+            "ref": "JFCM754",
+            "prix": "12 €",
+            "pp100ml": "16*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Gingembre Vétiver",
+      "description": "Une alliance originale d’un gingembre frais et dynamisant soutenu par la note boisée du vétiver.",
+      "produits": {
+        "maison": [
+          {
+            "format": "DIFFUSEUR FLACON 200 ML + 10 BÂTONNETS",
+            "ref": "JFD204",
+            "prix": "37 €",
+            "pp100ml": "18,50*"
+          },
+          {
+            "format": "BOUGIE 200 G DANS UN POT MÉTAL",
+            "ref": "JFB204",
+            "prix": "34 €",
+            "pp100ml": "17*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Rose Ambre",
+      "description": "Bergamote, cassis, rose, amande, patchouli, ambre, fève tonka, vanille.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF055",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS155",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON EN VERRE Ø 13 CM",
+            "ref": "JFSP155",
+            "prix": "24 €"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Myrrhe Patchouli",
+      "description": "Un diffuseur sensuel et épicé, inspiré des contrées légendaires de la Route de la Soie.",
+      "produits": {
+        "maison": [
+          {
+            "format": "DIFFUSEUR FLACON 200 ML + 10 BÂTONNETS",
+            "ref": "JFD205",
+            "prix": "37 €",
+            "pp100ml": "18,50*"
+          },
+          {
+            "format": "BOUGIE 200 G DANS UN POT MÉTAL",
+            "ref": "JFB205",
+            "prix": "34 €",
+            "pp100ml": "17*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Tilleul Cédrat",
+      "description": "Notes pétillantes de cédrat et de feuilles de violette à l’ombre d’un tilleul.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF051",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS151",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON EN VERRE Ø 13 CM",
+            "ref": "JFSP151",
+            "prix": "24 €"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Laurier Rose Cèdre",
+      "description": "Un délicat parfum de laurier rose en fleurs soutenu par le cèdre pour une touche boisée-fleurie dans votre maison.",
+      "produits": {
+        "maison": [
+          {
+            "format": "DIFFUSEUR FLACON 200 ML + 10 BÂTONNETS",
+            "ref": "JFD201",
+            "prix": "37 €",
+            "pp100ml": "18,50*"
+          },
+          {
+            "format": "BOUGIE 200 G DANS UN POT MÉTAL",
+            "ref": "JFB201",
+            "prix": "34 €",
+            "pp100ml": "17*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Santal Cardamome",
+      "description": "Poivre, cardamome, baies roses, laurier, encens, benjoin, santal, musc.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF056",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS156",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON EN VERRE Ø 13 CM",
+            "ref": "JFSP156",
+            "prix": "24 €"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Coriandre Lemongrass",
+      "description": "La coriandre s’allie au lemongrass dans une fragrance verte et pétillante.",
+      "produits": {
+        "maison": [
+          {
+            "format": "DIFFUSEUR FLACON 200 ML + 10 BÂTONNETS",
+            "ref": "JFD206",
+            "prix": "37 €",
+            "pp100ml": "18,50*"
+          },
+          {
+            "format": "BOUGIE 200 G DANS UN POT MÉTAL",
+            "ref": "JFB206",
+            "prix": "34 €",
+            "pp100ml": "17*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Bigarade Jasmin",
+      "description": "Orange amère, bergamote, pamplemousse, jasmin, cyprès, mousse de chêne et cèdre.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF057",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS157",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON EN VERRE Ø 13 CM",
+            "ref": "JFSP157",
+            "prix": "24 €"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Encens Fève Tonka",
+      "description": "Une balade au crépuscule dans les monastères du Mont Athos, enveloppée de fumées d'encens et de chaleur réconfortante.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "JF053",
+            "prix": "42 €",
+            "pp100ml": "84*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "SAVON PARFUMÉ 150 G",
+            "ref": "JFS153",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON 150 G + PORTE-SAVON VERRE Ø 13 CM",
+            "ref": "JFSP153",
+            "prix": "24 €"
+          }
+        ]
+      }
+    }
+  ]
+}

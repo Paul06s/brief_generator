@@ -1,0 +1,113 @@
+{
+  "gamme": "Les Savons",
+  "produits": [
+    {
+      "nom": "Savons Glycérinés",
+      "description": "Savons transparents décoratifs et doux pour la peau.",
+      "format": "125 G",
+      "prix": "6 €",
+      "pp100g": "4,80*",
+      "variantes": [
+        {
+          "parfum": "Rose",
+          "ref": "AS2"
+        },
+        {
+          "parfum": "Lavande",
+          "ref": "AS4"
+        },
+        {
+          "parfum": "Fleur d’Oranger",
+          "ref": "AS3"
+        },
+        {
+          "parfum": "Verveine",
+          "ref": "AS1"
+        },
+        {
+          "parfum": "Cèdre",
+          "ref": "AS6"
+        }
+      ]
+    },
+    {
+      "nom": "Savon à l’huile d’olive parfumé à la Lavande",
+      "description": "Apaise et laisse la peau douce et lisse.",
+      "format": "300 G",
+      "ref": "S33001",
+      "prix": "12 €",
+      "pp100g": "4*"
+    },
+    {
+      "nom": "Savon à l’huile d’amande douce parfumé à la Rose",
+      "description": "Calme et adoucit la peau.",
+      "format": "300 G",
+      "ref": "S33003",
+      "prix": "12 €",
+      "pp100g": "4*"
+    },
+    {
+      "nom": "Savon Cœur Fleur d’Oranger",
+      "description": "Savon cœur au doux parfum de fleur d’oranger.",
+      "format": "270 G",
+      "ref": "JM271",
+      "prix": "16 €",
+      "pp100g": "5,93*"
+    },
+    {
+      "nom": "Coffret de 6 Savons en Forme d’Oeuf",
+      "description": "6 savons invités aux senteurs de rose, chèvrefeuille, lavande, fleur d’oranger, jasmin et mimosa.",
+      "format": "6 × 50 G",
+      "prix": "12 €",
+      "pp100g": "4*",
+      "variantes": [
+        {
+          "nom": "Boîte bleue",
+          "ref": "S6054"
+        },
+        {
+          "nom": "Boîte jaune",
+          "ref": "S6055"
+        }
+      ]
+    },
+    {
+      "nom": "Savonnettes Diamantées",
+      "description": "5 savonnettes aux senteurs traditionnelles de Grasse : jasmin, lavande, rose, mimosa et verveine.",
+      "format": "SACHET 5 × 100 G",
+      "ref": "5S1100",
+      "prix": "16 €",
+      "pp100g": "3,20*"
+    },
+    {
+      "nom": "Coffret de 6 Savons Galets",
+      "description": "Coffret de 6 savons parfumés : rose, chèvrefeuille, lavande, fleur d’oranger, jasmin et mimosa.",
+      "format": "6 × 140 G",
+      "ref": "6S2140",
+      "prix": "30 €",
+      "pp100g": "3,57*"
+    },
+    {
+      "nom": "Coffret de 4 Savons Galets Invités",
+      "description": "Savons-galets miniatures parfumés : rose, jasmin, lavande et verveine.",
+      "format": "4 × 50 G",
+      "ref": "4S2069",
+      "prix": "16 €",
+      "pp100g": "8*"
+    },
+    {
+      "nom": "Savons Individuels",
+      "description": "Savons doux et onctueux déclinés en 7 parfums : chèvrefeuille, jasmin, verveine, rose, fleur d’oranger, pivoine et lavande.",
+      "format": "140 G",
+      "ref": "S4140",
+      "prix": "6 €",
+      "pp100g": "4,29*"
+    },
+    {
+      "nom": "Porte-Savon en Verre Décoré",
+      "description": "10 × 14,5 CM",
+      "ref": "DADPSFPM",
+      "prix": "10 €"
+    }
+  ]
+}

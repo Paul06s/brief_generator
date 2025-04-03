@@ -1,0 +1,287 @@
+{
+  "gamme": "Les Fleurs du Parfumeur",
+  "produits": [
+    {
+      "nom": "Belle de Grasse",
+      "description": "Feuilles de violette, bergamote, mimosa, fleur d’oranger, lilas, héliotrope et musc.",
+      "items": [
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 100 ML",
+          "ref": "T1040100",
+          "prix": "42 €"
+        },
+        {
+          "type": "savon",
+          "format": "150 G",
+          "ref": "TS040150",
+          "prix": "10 €",
+          "pp100g": "6,67*"
+        },
+        {
+          "type": "coffret_savon",
+          "format": "150 G + PORTE-SAVON",
+          "ref": "TSP040150",
+          "prix": "24 €"
+        },
+        {
+          "type": "creme_mains",
+          "format": "TUBE 75 ML",
+          "ref": "TCM40075",
+          "prix": "12 €",
+          "pp100ml": "16*"
+        }
+      ]
+    },
+    {
+      "nom": "Beau de Provence",
+      "description": "Pamplemousse, figuier, bergamote, menthe, basilic, ylang-ylang, cèdre, patchouli, santal, vétiver.",
+      "items": [
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 100 ML",
+          "ref": "T1042100",
+          "prix": "42 €"
+        },
+        {
+          "type": "savon",
+          "format": "150 G",
+          "ref": "TS042150",
+          "prix": "10 €",
+          "pp100g": "6,67*"
+        },
+        {
+          "type": "coffret_savon",
+          "format": "150 G + PORTE-SAVON",
+          "ref": "TSP042150",
+          "prix": "24 €"
+        },
+        {
+          "type": "creme_mains",
+          "format": "TUBE 75 ML",
+          "ref": "TCM42075",
+          "prix": "12 €",
+          "pp100ml": "16*"
+        }
+      ]
+    },
+    {
+      "nom": "Belle d’Arles",
+      "description": "Bergamote, néroli, pêche, fleur d’oranger, fond ambré.",
+      "items": [
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 100 ML",
+          "ref": "T1041100",
+          "prix": "42 €"
+        },
+        {
+          "type": "savon",
+          "format": "150 G",
+          "ref": "TS041150",
+          "prix": "10 €",
+          "pp100g": "6,67*"
+        },
+        {
+          "type": "coffret_savon",
+          "format": "150 G + PORTE-SAVON",
+          "ref": "TSP041150",
+          "prix": "24 €"
+        },
+        {
+          "type": "creme_mains",
+          "format": "TUBE 75 ML",
+          "ref": "TCM41075",
+          "prix": "12 €",
+          "pp100ml": "16*"
+        }
+      ]
+    },
+    {
+      "nom": "Belle de Paris",
+      "description": "Mandarine verte, néroli, poire, iris, violette, encens, muscs et cèdre blanc.",
+      "items": [
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 100 ML",
+          "ref": "T1043100",
+          "prix": "42 €"
+        },
+        {
+          "type": "savon",
+          "format": "150 G",
+          "ref": "TS043150",
+          "prix": "10 €",
+          "pp100g": "6,67*"
+        },
+        {
+          "type": "coffret_savon",
+          "format": "150 G + PORTE-SAVON",
+          "ref": "TSP043150",
+          "prix": "24 €"
+        },
+        {
+          "type": "creme_mains",
+          "format": "TUBE 75 ML",
+          "ref": "TCM43075",
+          "prix": "12 €",
+          "pp100ml": "16*"
+        }
+      ]
+    },
+    {
+      "nom": "Bel Oranger",
+      "description": "Bergamote d’Italie, petit grain citronnier, orange, cèdre, patchouli.",
+      "items": [
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 100 ML",
+          "ref": "T1044100",
+          "prix": "42 €"
+        },
+        {
+          "type": "savon",
+          "format": "150 G",
+          "ref": "TS044150",
+          "prix": "10 €",
+          "pp100g": "6,67*"
+        },
+        {
+          "type": "coffret_savon",
+          "format": "150 G + PORTE-SAVON",
+          "ref": "TSP044150",
+          "prix": "24 €"
+        },
+        {
+          "type": "creme_mains",
+          "format": "TUBE 75 ML",
+          "ref": "TCM44075",
+          "prix": "12 €",
+          "pp100ml": "16*"
+        }
+      ]
+    },
+    {
+      "nom": "Belle d’Amour",
+      "description": "Angélique, cassis, vanille, notes vertes, douces et croquantes.",
+      "items": [
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 100 ML",
+          "ref": "T1045100",
+          "prix": "42 €"
+        },
+        {
+          "type": "savon",
+          "format": "150 G",
+          "ref": "TS045150",
+          "prix": "10 €",
+          "pp100g": "6,67*"
+        },
+        {
+          "type": "coffret_savon",
+          "format": "150 G + PORTE-SAVON",
+          "ref": "TSP045150",
+          "prix": "24 €"
+        },
+        {
+          "type": "creme_mains",
+          "format": "TUBE 75 ML",
+          "ref": "TCM45075",
+          "prix": "12 €",
+          "pp100ml": "16*"
+        }
+      ]
+    },
+    {
+      "nom": "Rêve de Grasse",
+      "description": "Explosion florale dominée par la rose, avec géranium, pivoine, muguet.",
+      "items": [
+        {
+          "type": "diffuseur",
+          "format": "FLACON 250 ML + 10 BÂTONNETS",
+          "ref": "TD251",
+          "prix": "42 €",
+          "pp100ml": "16,80*"
+        }
+      ]
+    },
+    {
+      "nom": "Rêve d’Arles",
+      "description": "Gingembre, cardamome, carotte graine, immortelle, rose, jasmin, cèdre, réglisse.",
+      "items": [
+        {
+          "type": "diffuseur",
+          "format": "FLACON 250 ML + 10 BÂTONNETS",
+          "ref": "TD252",
+          "prix": "42 €",
+          "pp100ml": "16,80*"
+        }
+      ]
+    },
+    {
+      "nom": "Rêve de Paris",
+      "description": "Brins de muguet et notes printanières d’un sous-bois verdoyant.",
+      "items": [
+        {
+          "type": "diffuseur",
+          "format": "FLACON 250 ML + 10 BÂTONNETS",
+          "ref": "TD253",
+          "prix": "42 €",
+          "pp100ml": "16,80*"
+        }
+      ]
+    },
+    {
+      "nom": "Rêve de Provence",
+      "description": "Lavande en fleurs et huiles essentielles pour un voyage magique.",
+      "items": [
+        {
+          "type": "diffuseur",
+          "format": "FLACON 250 ML + 10 BÂTONNETS",
+          "ref": "TD254",
+          "prix": "42 €",
+          "pp100ml": "16,80*"
+        }
+      ]
+    },
+    {
+      "nom": "Rêve de Sicile",
+      "description": "Mandarine verte, citron d’Italie, cardamome, basilic, romarin.",
+      "items": [
+        {
+          "type": "diffuseur",
+          "format": "FLACON 250 ML + 10 BÂTONNETS",
+          "ref": "TD255",
+          "prix": "42 €",
+          "pp100ml": "16,80*"
+        }
+      ]
+    },
+    {
+      "nom": "Rêve d’une Nuit",
+      "description": "Jasmin, ambre, bois de cèdre. Un jardin méridional à la tombée du jour.",
+      "items": [
+        {
+          "type": "diffuseur",
+          "format": "FLACON 250 ML + 10 BÂTONNETS",
+          "ref": "TD256",
+          "prix": "42 €",
+          "pp100ml": "16,80*"
+        }
+      ]
+    },
+    {
+      "nom": "Set de 4 Serviettes Invités",
+      "description": "Serviettes en coton décorées de fleurs du parfumeur. 30 × 50 CM.",
+      "items": [
+        {
+          "type": "accessoire",
+          "format": "4 SERVIETTES INVITÉS",
+          "ref": "LLOQSFP",
+          "prix": "30 €"
+        }
+      ]
+    }
+  ]
+}

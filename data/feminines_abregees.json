@@ -1,0 +1,66 @@
+{
+  "gamme": "Les Féminines (abrégé)",
+  "parfums": [
+    "Juste un Baiser",
+    "Mélodie",
+    "Étoile",
+    "Fragonard",
+    "Frivole",
+    "Île d’Amour"
+  ],
+  "notes": {
+    "Juste un Baiser": "Bergamote d'Italie, fleur de cerisier, pomme, amande, rose, patchouli d'Indonésie, vanille",
+    "Mélodie": "Framboise, groseille, pamplemousse, absolue rose, pivoine, baies roses, bois de cèdre, mousse et vanille",
+    "Étoile": "Bergamote, citron, pomme, gingembre, gardénia, muguet, jasmin, bois de cèdre, ambre et musc",
+    "Fragonard": "Jacinthe, muguet, jasmin, fleur d’oranger, cèdre",
+    "Frivole": "Mandarine verte, bergamote, citron, jasmin, muguet, pivoine, patchouli, musc et iris",
+    "Île d’Amour": "Osmanthus, rose, jasmin, lilas, musc, muguet et ambre"
+  },
+  "produits": {
+    "eau_de_toilette": [
+      {
+        "format": "BIDON RECHARGE 600 ML",
+        "ref": "F6600",
+        "prix": "78 €",
+        "pp100ml": "13*"
+      },
+      {
+        "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+        "ref": "F6200",
+        "prix": "50 €",
+        "pp100ml": "25*"
+      },
+      {
+        "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+        "ref": "F6100",
+        "prix": "36 €"
+      }
+    ],
+    "parfum": [
+      {
+        "format": "VAPORISATEUR ALU DORÉ 120 ML",
+        "ref": "F7120",
+        "prix": "105 €",
+        "pp100ml": "87,50*"
+      },
+      {
+        "format": "VAPORISATEUR ALU DORÉ 60 ML",
+        "ref": "F7060",
+        "prix": "72 €",
+        "pp100ml": "120*"
+      },
+      {
+        "format": "VAPORISATEUR ALU DORÉ 30 ML",
+        "ref": "F7030",
+        "prix": "50 €",
+        "pp100ml": "166,67*"
+      },
+      {
+        "format": "VAPORISATEUR ALU DORÉ 15 ML",
+        "ref": "F7015",
+        "prix": "36 €",
+        "pp100ml": "240*"
+      }
+    ]
+  }
+}

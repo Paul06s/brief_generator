@@ -1,0 +1,13 @@
+{
+  "gamme": "Cologne Grand Luxe",
+  "produits": [
+    {
+      "nom": "Cologne Grand Luxe",
+      "description": "Élaborée à partir d’ingrédients de première qualité, cette eau de toilette est synonyme de fraîcheur et d’intemporalité. Bergamote, citron, mandarine, lavande, géranium, néroli, petit grain, romarin, ambre, santal, benjoin.",
+      "format": "VAPORISATEUR 200 ML",
+      "ref": "CL200",
+      "prix": "44 €",
+      "pp100ml": "22*"
+    }
+  ]
+}

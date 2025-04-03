@@ -1,0 +1,71 @@
+{
+  "gamme": "Les Boisées",
+  "parfums": [
+    {
+      "nom": "Patchouli",
+      "description": "Parfum boisé agrémenté en tête d’orange amère, de gingembre et de petitgrain du Paraguay. Il révèle un cœur parfumé de rose, relevé de carvi soutenu de musc et de fève de tonka.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "N1617",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "N1217",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "N1117",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "NG2517",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Vétiver",
+      "description": "Parfum dévoilant la fraîcheur du pamplemousse, du néroli et la sensualité de l’encens en tête, sur un cœur de pivoine, de fir balsam et de cuir souligné de benjoin et de musc.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "N1616",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "N1216",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "N1116",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "NG2516",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    }
+  ]
+}

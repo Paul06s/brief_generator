@@ -1,0 +1,348 @@
+{
+  "gamme": "Les Masculins",
+  "parfums": [
+    {
+      "nom": "Bleu Rivieria",
+      "description": "Bergamote et mandarine d'Italie, lavande et sauge sclarée de France, iris, patchouli d'Indonésie, vétiver d'Haïti.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "H8626",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "H8226",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "H8126",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "HG2526",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Concerto",
+      "description": "Mandarine, bergamote, citron, jasmin, rose, thé, épices, santal, ambre et patchouli.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "H8608",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "H8208",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "H8108",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "HG2508",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "L’Aventurier",
+      "description": "Citron, baies roses, ambre, patchouli, vétiver, cuir et musc.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "H8622",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "H8222",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "H8122",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "HG2522",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Beau Gosse",
+      "description": "Bergamote, note marine, cardamome, noix de muscade, cèdre, musc et patchouli.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "H8612",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "H8212",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "H8112",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "HG2512",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Valentin",
+      "description": "Citron, lavande, bergamote, gingembre, cardamome, muscade, feuilles de violette, cèdre, mousse de chêne, patchouli, vétiver, santal et vanille.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "H8623",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "H8223",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "H8123",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "HG2523",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Homme Élégant",
+      "description": "Bergamote, cardamome, menthe, encens, cèdre, iris, patchouli et vétiver.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "H8621",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "H8221",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "H8121",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "HG2521",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Eau de Hongrie",
+      "description": "Bergamote, lavandin, melon, muguet, galbanum, jasmin, cèdre, ciste et ambre.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "H8603",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "H8203",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "H8103",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "HG2503",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Désert",
+      "description": "Mandarine, bergamote, sauge, safran, néroli, tabac, fève tonka et oud.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "H8616",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "H8216",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "H8116",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "HG2516",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Eau du Séducteur",
+      "description": "Bergamote, agrumes, cardamome, géranium, noix de muscade, fève tonka, santal, musc et cèdre.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "H8624",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "H8224",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "H8124",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "HG2524",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Secret Absolu",
+      "description": "Bergamote, cyprès, poivre, bois de cèdre, ambre blanc, feuilles de violette, oud, cuir, tonka, musc, vétiver et patchouli.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "H8625",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "H8225",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "H8125",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "HG2525",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          }
+        ]
+      }
+    }
+  ],
+  "produits_complementaires": [
+    {
+      "nom": "Baume Après-Rasage « Toujours Beau »",
+      "description": "Bergamote, citron, mandarine, lavande, géranium, néroli, petit grain, romarin, ambre, santal, benjoin.",
+      "produits": [
+        {
+          "format": "FLACON POMPE 100 ML",
+          "ref": "HAR100",
+          "prix": "18 €"
+        }
+      ]
+    }
+  ]
+}

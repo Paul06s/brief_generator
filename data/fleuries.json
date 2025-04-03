@@ -1,0 +1,122 @@
+{
+  "gamme": "Les Fleuries",
+  "parfums": [
+    {
+      "nom": "Verveine",
+      "description": "Verveine odorante, pamplemousse et verveine exotique en tête reposent sur les notes fleuries du jasmin et de l’ylang-ylang dans un sillage sensuel et chaleureux de notes boisées.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "N1007600",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "N1007200",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "N1007100",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "NG250007",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          },
+          {
+            "format": "LAIT CORPS PARFUMÉ FLACON POMPE 250 ML",
+            "ref": "NL250007",
+            "prix": "19 €",
+            "pp100ml": "7,60*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Rose de Mai",
+      "description": "Autour de l’odorante rose de Grasse s’épanouissent avec discrétion le gardénia et la violette, le jasmin et le muguet sauvage, ainsi que l’ylang-ylang soutenu de feuilles de cassis.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "N1010600",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "N1010200",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "N1010100",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "NG250010",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          },
+          {
+            "format": "LAIT CORPS PARFUMÉ FLACON POMPE 250 ML",
+            "ref": "NL250010",
+            "prix": "19 €",
+            "pp100ml": "7,60*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Pivoine",
+      "description": "Notes fruitées de groseille, rhubarbe et seringa. Son cœur aux trois pivoines (rose, rouge et blanche) est soutenu par des notes d’iris, musc et ambre.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "N1020600",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "N1020200",
+            "prix": "50 €",
+            "pp100ml": "25*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "N1020100",
+            "prix": "36 €"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "NG250020",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          },
+          {
+            "format": "LAIT CORPS PARFUMÉ FLACON POMPE 250 ML",
+            "ref": "NL250020",
+            "prix": "19 €",
+            "pp100ml": "7,60*"
+          }
+        ]
+      }
+    }
+  ]
+}

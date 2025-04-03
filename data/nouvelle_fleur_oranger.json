@@ -1,0 +1,122 @@
+{
+  "gamme": "Nouvelle Fleur d’Oranger",
+  "parfums": [
+    {
+      "nom": "Nouvelle Fleur d’Oranger",
+      "description": "La tendre fleur du néroli s’allie à la bergamote, au jasmin et au musc pour enchanter nos sens d’une indicible gourmandise.",
+      "produits": {
+        "eau_de_toilette": [
+          {
+            "format": "BIDON RECHARGE 600 ML",
+            "ref": "FO600",
+            "prix": "78 €",
+            "pp100ml": "13*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 200 ML",
+            "ref": "FO200",
+            "prix": "52 €",
+            "pp100ml": "26*"
+          },
+          {
+            "format": "VAPORISATEUR RECHARGEABLE 100 ML",
+            "ref": "FO100",
+            "prix": "38 €"
+          }
+        ],
+        "parfum": [
+          {
+            "format": "VAPORISATEUR ALU DORÉ 120 ML",
+            "ref": "FO5120",
+            "prix": "105 €",
+            "pp100ml": "87,50*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 60 ML",
+            "ref": "FO5060",
+            "prix": "72 €",
+            "pp100ml": "120*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 30 ML",
+            "ref": "FO5030",
+            "prix": "50 €",
+            "pp100ml": "166,67*"
+          },
+          {
+            "format": "VAPORISATEUR ALU DORÉ 15 ML",
+            "ref": "FO5015",
+            "prix": "36 €",
+            "pp100ml": "240*"
+          }
+        ],
+        "soin": [
+          {
+            "format": "GEL DOUCHE PARFUMÉ FLACON 250 ML",
+            "ref": "FOG250",
+            "prix": "13 €",
+            "pp100ml": "5,20*"
+          },
+          {
+            "format": "CREME MAINS TUBE 75 ML",
+            "ref": "FOCM075",
+            "prix": "12 €"
+          },
+          {
+            "format": "CRÈME CORPS PARFUMÉE TUBE 200 ML",
+            "ref": "FOC200",
+            "prix": "24 €",
+            "pp100ml": "7,60*"
+          },
+          {
+            "format": "BRUME DE CORPS VAPORISATEUR 250 ML",
+            "ref": "FOBC250",
+            "prix": "26 €",
+            "pp100ml": "10,40*"
+          }
+        ],
+        "maison": [
+          {
+            "format": "DIFFUSEUR FLACON 200 ML + 10 BÂTONNETS",
+            "ref": "FOD200",
+            "prix": "37 €",
+            "pp100ml": "18,50*"
+          },
+          {
+            "format": "BOUGIE POT EN VERRE 200 G",
+            "ref": "FOB201",
+            "prix": "36 €",
+            "pp100ml": "18*"
+          }
+        ],
+        "savon": [
+          {
+            "format": "SAVON 150 G",
+            "ref": "FOS150",
+            "prix": "10 €",
+            "pp100ml": "6,67*"
+          },
+          {
+            "format": "COFFRET SAVON + PORTE-SAVON EN VERRE 10 x 14,5 CM",
+            "ref": "FOSP150",
+            "prix": "22 €"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Fleur d’Oranger Intense",
+      "description": "Bergamote, jasmin et mandarine lui offrent un cœur puissant, reposant sur un fond de santal et de musc subtilement miellé.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "COFFRET PRESTIGE VAPORISATEUR 50 ML",
+            "ref": "FOi051",
+            "prix": "50 €",
+            "pp100ml": "100*"
+          }
+        ]
+      }
+    }
+  ]
+}

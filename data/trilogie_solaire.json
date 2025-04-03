@@ -1,0 +1,62 @@
+{
+  "gamme": "La Trilogie Solaire",
+  "parfums": [
+    {
+      "nom": "Soleil",
+      "description": "Une lumineuse alliance de jasmin, freesia, fleur d'oranger, rose, lys et de glycine soulignée d’ambre et de santal.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 100 ML",
+            "ref": "SOL101",
+            "prix": "55 €"
+          },
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "SOL051",
+            "prix": "40 €",
+            "pp100ml": "80*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Grain de Soleil",
+      "description": "Un concentré de jasmin, héliotrope, fleur d'oranger, rose, iris, cannelle, encens, patchouli et vanille.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 100 ML",
+            "ref": "GSOL101",
+            "prix": "55 €"
+          },
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "GSOL051",
+            "prix": "40 €",
+            "pp100ml": "80*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Cœur de Soleil",
+      "description": "Eclats de bergamote, mandarine et cassis sur un cœur vibrant de freesia, absolue de rose et de jasmin soutenu par un fond d’ambre et de cèdre.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "VAPORISATEUR 100 ML",
+            "ref": "CSOL101",
+            "prix": "55 €"
+          },
+          {
+            "format": "VAPORISATEUR 50 ML",
+            "ref": "CSOL051",
+            "prix": "40 €",
+            "pp100ml": "80*"
+          }
+        ]
+      }
+    }
+  ]
+}

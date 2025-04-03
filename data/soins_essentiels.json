@@ -1,0 +1,75 @@
+{
+  "gamme": "Fragonard Soins Essentiels",
+  "description": "Des produits cosmétiques certifiés bio et d’origine naturelle, adaptés à tous les types de peaux. Formules simples, responsables, aux textures sensorielles, pour une routine beauté indispensable.",
+  "produits": [
+    {
+      "nom": "Baume Absolu à la Lavande",
+      "description": "Baume multi-usage parfumé à la lavande. Hydratant pour le corps, les cheveux, démaquillant et crème visage éclat.",
+      "format": "TUBE 100 ML",
+      "ref": "SEBA100",
+      "prix": "25 €"
+    },
+    {
+      "nom": "Crème Visage à l’Huile d’Amande Douce",
+      "description": "Crème de jour enrichie en huile d’amande douce, Aloé vera et beurre de karité. Convient à tous types de peaux.",
+      "format": "POT 50 ML",
+      "ref": "SECV050",
+      "prix": "30 €",
+      "pp100ml": "60*"
+    },
+    {
+      "nom": "Huile Précieuse de Pépins de Figue de Barbarie",
+      "description": "Huile rare obtenue par pression à froid, riche en vitamine E, omégas 6 et 9. Soin antioxydant pour le visage.",
+      "format": "FLACON 15 ML",
+      "ref": "SEHP015",
+      "prix": "44 €",
+      "pp100ml": "293,33*"
+    },
+    {
+      "nom": "Eau Micellaire à la Rose",
+      "description": "Eau nettoyante sans rinçage à la rose de Damas, orge et Aloé vera. Laisse la peau fraîche et parfumée.",
+      "format": "FLACON POMPE 250 ML",
+      "ref": "SEEM250",
+      "prix": "18 €",
+      "pp100ml": "7,20*"
+    },
+    {
+      "nom": "Lait Démaquillant au Bleuet",
+      "description": "Lait doux enrichi en hydrolat de bleuet et Aloé vera. Démaquille et nettoie en un seul geste.",
+      "format": "FLACON POMPE 250 ML",
+      "ref": "SELD250",
+      "prix": "22 €",
+      "pp100ml": "8,80*"
+    },
+    {
+      "nom": "Lait Corps à la Fleur d’Oranger",
+      "description": "Lait pour le corps parfumé à la fleur d’oranger, aux huiles végétales nourrissantes et protectrices.",
+      "format": "FLACON POMPE 250 ML",
+      "ref": "SELC250",
+      "prix": "30 €",
+      "pp100ml": "12*"
+    },
+    {
+      "nom": "Crème Mains & Pieds à l’Huile d’Olive",
+      "description": "Crème protectrice enrichie en huile d’olive bio, orge et beurre de karité. Parfum fleur d’oranger.",
+      "format": "TUBE 100 ML",
+      "ref": "SEMP100",
+      "prix": "15 €"
+    },
+    {
+      "nom": "Shampoing Solide au Géranium",
+      "description": "Shampoing solide enrichi en huile d’amande douce, géranium et lavande. Revitalise les cheveux.",
+      "format": "75 G",
+      "ref": "SESH075",
+      "prix": "12 €",
+      "pp100g": "16*"
+    },
+    {
+      "nom": "Set de 4 Serviettes Invités",
+      "description": "Quatre serviettes en coton doux ornées de gravures botaniques. Parfait complément de la gamme.",
+      "format": "100% COTON, 30 x 50 CM",
+      "ref": "LLOQSSE",
+      "prix": "30 €"
+    }
+  ]
+}

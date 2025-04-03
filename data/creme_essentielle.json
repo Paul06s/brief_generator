@@ -1,0 +1,13 @@
+{
+  "gamme": "Crème Essentielle",
+  "produits": [
+    {
+      "nom": "Crème Visage à la Gelée Royale",
+      "description": "C’est grâce à ses propriétés exceptionnelles d’hydratation et de confort que lui confère la gelée royale naturelle que cette crème est devenue le best-seller de Fragonard. L’incontournable pour toutes les peaux.",
+      "format": "POT 50 ML",
+      "ref": "C1052",
+      "prix": "29 €",
+      "pp100ml": "58*"
+    }
+  ]
+}

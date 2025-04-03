@@ -1,0 +1,89 @@
+{
+  "gamme": "Fragonard Prestige",
+  "parfums": [
+    {
+      "nom": "Étoile",
+      "description": "Citron, pomme, gingembre, gardénia, muguet, jasmin, bois de cèdre, ambre et musc",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "COFFRET PRESTIGE VAPORISATEUR 50 ML",
+            "ref": "FC050032",
+            "prix": "50 €",
+            "pp100ml": "100*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Fleur d’Oranger Intense",
+      "description": "Fleurs blanches, fleur d’oranger, bergamote, jasmin, mandarine, santal et musc.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "COFFRET PRESTIGE VAPORISATEUR 50 ML",
+            "ref": "FOi050",
+            "prix": "50 €",
+            "pp100ml": "100*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Reine des Cœurs",
+      "description": "Pêche, poivre rose, fleur d’oranger, rose, ylang-ylang, musc et benjoin.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "COFFRET PRESTIGE VAPORISATEUR 50 ML",
+            "ref": "FC050RC",
+            "prix": "50 €",
+            "pp100ml": "100*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Belle Chérie",
+      "description": "Mandarine, carambole, jasmin, héliotrope, muguet, santal, fève tonka et vanille.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "COFFRET PRESTIGE VAPORISATEUR 50 ML",
+            "ref": "FC050BC",
+            "prix": "50 €",
+            "pp100ml": "100*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Belle de Nuit",
+      "description": "Mirabilis, ylang-ylang, gardénia, violette, géranium, rose, prune, bois et musc.",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "COFFRET PRESTIGE VAPORISATEUR 50 ML",
+            "ref": "FC050BEL",
+            "prix": "50 €",
+            "pp100ml": "100*"
+          }
+        ]
+      }
+    },
+    {
+      "nom": "Diamant",
+      "description": "Mandarine, orange, poivre, jasmin, prune, rose, vanille, patchouli, musc et caramel",
+      "produits": {
+        "eau_de_parfum": [
+          {
+            "format": "COFFRET PRESTIGE VAPORISATEUR 50 ML",
+            "ref": "FC050Di",
+            "prix": "50 €",
+            "pp100ml": "100*"
+          }
+        ]
+      }
+    }
+  ]
+}

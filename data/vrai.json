@@ -1,0 +1,94 @@
+{
+  "gamme": "VRAI",
+  "description": "Des produits de haute qualité qui allient simplicité et authenticité pour une ligne de soins, corps et visage, délicatement parfumée de fraîcheur : bergamote, ambre, basilic, verveine, jasmin, thym et iris.",
+  "produits": [
+    {
+      "nom": "Crème Antirides pour le Visage",
+      "description": "Vraie merveille de souplesse et de légèreté. Elle allie un effet antirides et lissant à une sensation de confort, grâce à la présence de thé vert et d’huile de pépins de raisin.",
+      "format": "POT 50 ML",
+      "ref": "VV052",
+      "prix": "35 €",
+      "pp100ml": "70*"
+    },
+    {
+      "nom": "Sérum Éclat",
+      "description": "Un VRAI sérum aux pouvoirs raffermissants et restructurants pour un grain de peau éclatant.",
+      "format": "FLACON POMPE 30 ML",
+      "ref": "VS031",
+      "prix": "27 €",
+      "pp100ml": "90*"
+    },
+    {
+      "nom": "Soin Contour des Yeux",
+      "description": "Texture légère enrichie d’huile d’argan, beurre de karité, caféine et vitamine E. Hydrate, nourrit et adoucit.",
+      "format": "TUBE 15 ML",
+      "ref": "VSY015",
+      "prix": "22 €",
+      "pp100ml": "146,67*"
+    },
+    {
+      "nom": "Shampoing",
+      "description": "Formule riche en Aloé vera pour adoucir et faciliter le démêlage. Nourrissant et hydratant.",
+      "format": "FLACON POMPE 240 ML",
+      "ref": "VSH240",
+      "prix": "22 €",
+      "pp100ml": "9,17*"
+    },
+    {
+      "nom": "Gel Bain Douche pour le Corps",
+      "description": "Gel douche parfumé aux agrumes, herbes et fleurs pour un réveil frais et vivifiant.",
+      "format": "FLACON 250 ML",
+      "ref": "VG250",
+      "prix": "16 €",
+      "pp100ml": "6,40*"
+    },
+    {
+      "nom": "Savon Parfumé",
+      "description": "Savon végétal doux et délicieusement parfumé.",
+      "format": "SAVON 150 G",
+      "ref": "VS150",
+      "prix": "8 €",
+      "pp100ml": "5,33*"
+    },
+    {
+      "nom": "Huile d’Argan Naturelle pour le Corps & les Cheveux",
+      "description": "Nourrit la peau, apporte brillance et facilite le coiffage.",
+      "formats": [
+        {
+          "format": "FLACON POMPE 100 ML",
+          "ref": "VH100",
+          "prix": "35 €"
+        },
+        {
+          "format": "FLACON POMPE 240 ML",
+          "ref": "VH240",
+          "prix": "58 €",
+          "pp100ml": "24,17*"
+        }
+      ]
+    },
+    {
+      "nom": "Crème pour le Corps",
+      "description": "Lait de pêche, karité, avoine, huile de coton. Nourrit et restructure la peau.",
+      "format": "POT 200 ML",
+      "ref": "VC201",
+      "prix": "37 €",
+      "pp100ml": "18,50*"
+    },
+    {
+      "nom": "Crème Douce pour les Mains",
+      "description": "Crème à l’avoine, huile de coton, vitamines E, karité, abricot. Texture riche et légère.",
+      "format": "FLACON POMPE 125 ML",
+      "ref": "VM125",
+      "prix": "20 €",
+      "pp100ml": "16*"
+    },
+    {
+      "nom": "Eau de Toilette",
+      "description": "Bergamote, verveine, citron vert, thym, jasmin, iris, mousse : un hymne à la fraîcheur.",
+      "format": "VAPORISATEUR 100 ML",
+      "ref": "VE100",
+      "prix": "36 €"
+    }
+  ]
+}

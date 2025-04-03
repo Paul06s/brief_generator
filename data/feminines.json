@@ -1,0 +1,102 @@
+{
+    "gamme": "Les Féminines",
+    "parfums": [
+      {
+        "nom": "Juste un Baiser",
+        "description": "Bergamote d'Italie, fleur de cerisier, pomme, amande, rose, patchouli d'Indonésie, vanille.",
+        "produits": {
+          "eau_de_toilette": [
+            { "format": "BIDON RECHARGE 600 ML", "ref": "F6037600", "prix": "78 €", "pp100ml": "13*" },
+            { "format": "VAPORISATEUR RECHARGEABLE 200 ML", "ref": "F6037200", "prix": "50 €", "pp100ml": "25*" },
+            { "format": "VAPORISATEUR RECHARGEABLE 100 ML", "ref": "F6037100", "prix": "36 €" }
+          ],
+          "parfum": [
+            { "format": "VAPORISATEUR ALU DORÉ 120 ML", "ref": "F7037120", "prix": "105 €", "pp100ml": "87,50*" },
+            { "format": "VAPORISATEUR ALU DORÉ 60 ML", "ref": "F7037060", "prix": "72 €", "pp100ml": "120*" },
+            { "format": "VAPORISATEUR ALU DORÉ 30 ML", "ref": "F7037030", "prix": "50 €", "pp100ml": "166,67*" },
+            { "format": "VAPORISATEUR ALU DORÉ 15 ML", "ref": "F7037015", "prix": "36 €", "pp100ml": "240*" }
+          ]
+        }
+      },
+      {
+        "nom": "Mélodie",
+        "description": "Framboise, groseille, pamplemousse, absolue rose, pivoine, baies roses, bois de cèdre, mousse et vanille.",
+        "produits": {
+          "eau_de_toilette": [
+            { "format": "BIDON RECHARGE 600 ML", "ref": "F6036600", "prix": "78 €", "pp100ml": "13*" },
+            { "format": "VAPORISATEUR RECHARGEABLE 200 ML", "ref": "F6036200", "prix": "50 €", "pp100ml": "25*" },
+            { "format": "VAPORISATEUR RECHARGEABLE 100 ML", "ref": "F6036100", "prix": "36 €" }
+          ],
+          "parfum": [
+            { "format": "VAPORISATEUR ALU DORÉ 120 ML", "ref": "F7036120", "prix": "105 €", "pp100ml": "87,50*" },
+            { "format": "VAPORISATEUR ALU DORÉ 60 ML", "ref": "F7036060", "prix": "72 €", "pp100ml": "120*" },
+            { "format": "VAPORISATEUR ALU DORÉ 30 ML", "ref": "F7036030", "prix": "50 €", "pp100ml": "166,67*" },
+            { "format": "VAPORISATEUR ALU DORÉ 15 ML", "ref": "F7036015", "prix": "36 €", "pp100ml": "240*" }
+          ]
+        }
+      },
+      {
+        "nom": "Étoile",
+        "description": "Bergamote, citron, pomme, gingembre, gardénia, muguet, jasmin, bois de cèdre, ambre et musc.",
+        "produits": {
+          "eau_de_toilette": [
+            { "format": "BIDON RECHARGE 600 ML", "ref": "F6032600", "prix": "78 €", "pp100ml": "13*" },
+            { "format": "VAPORISATEUR RECHARGEABLE 200 ML", "ref": "F6032200", "prix": "50 €", "pp100ml": "25*" },
+            { "format": "VAPORISATEUR RECHARGEABLE 100 ML", "ref": "F6032100", "prix": "36 €" }
+          ],
+          "parfum": [
+            { "format": "VAPORISATEUR ALU DORÉ 120 ML", "ref": "F7032120", "prix": "105 €", "pp100ml": "87,50*" },
+            { "format": "VAPORISATEUR ALU DORÉ 60 ML", "ref": "F7032060", "prix": "72 €", "pp100ml": "120*" },
+            { "format": "VAPORISATEUR ALU DORÉ 30 ML", "ref": "F7032030", "prix": "50 €", "pp100ml": "166,67*" },
+            { "format": "VAPORISATEUR ALU DORÉ 15 ML", "ref": "F7032015", "prix": "36 €", "pp100ml": "240*" }
+          ]
+        }
+      },
+      {
+        "nom": "Fragonard",
+        "description": "Jacinthe, muguet, jasmin, fleur d’oranger, cèdre.",
+        "produits": {
+          "eau_de_toilette": [
+            { "format": "BIDON RECHARGE 600 ML", "ref": "F6001600", "prix": "78 €", "pp100ml": "13*" },
+            { "format": "VAPORISATEUR RECHARGEABLE 200 ML", "ref": "F6001200", "prix": "50 €", "pp100ml": "25*" },
+            { "format": "VAPORISATEUR RECHARGEABLE 100 ML", "ref": "F6001100", "prix": "36 €" }
+          ],
+          "parfum": [
+            { "format": "VAPORISATEUR ALU DORÉ 120 ML", "ref": "F7001120", "prix": "105 €", "pp100ml": "87,50*" },
+            { "format": "VAPORISATEUR ALU DORÉ 60 ML", "ref": "F7001060", "prix": "72 €", "pp100ml": "120*" },
+            { "format": "VAPORISATEUR ALU DORÉ 30 ML", "ref": "F7001030", "prix": "50 €", "pp100ml": "166,67*" },
+            { "format": "VAPORISATEUR ALU DORÉ 15 ML", "ref": "F7001015", "prix": "36 €", "pp100ml": "240*" }
+          ]
+        }
+      },
+      {
+        "nom": "Frivole",
+        "description": "Mandarine verte, bergamote, citron, jasmin, muguet, pivoine, patchouli, musc et iris.",
+        "produits": {
+          "eau_de_toilette": [
+            { "format": "BIDON RECHARGE 600 ML", "ref": "F6033600", "prix": "78 €", "pp100ml": "13*" },
+            { "format": "VAPORISATEUR RECHARGEABLE 200 ML", "ref": "F6033200", "prix": "50 €", "pp100ml": "25*" },
+            { "format": "VAPORISATEUR RECHARGEABLE 100 ML", "ref": "F6033100", "prix": "36 €" }
+          ],
+          "parfum": [
+            { "format": "VAPORISATEUR ALU DORÉ 120 ML", "ref": "F7033120", "prix": "105 €", "pp100ml": "87,50*" },
+            { "format": "VAPORISATEUR ALU DORÉ 60 ML", "ref": "F7033060", "prix": "72 €", "pp100ml": "120*" },
+            { "format": "VAPORISATEUR ALU DORÉ 30 ML", "ref": "F7033030", "prix": "50 €", "pp100ml": "166,67*" },
+            { "format": "VAPORISATEUR ALU DORÉ 15 ML", "ref": "F7033015", "prix": "36 €", "pp100ml": "240*" }
+          ]
+        }
+      },
+      {
+        "nom": "Île d’Amour",
+        "description": "Osmanthus, rose, jasmin, lilas, musc, muguet et ambre.",
+        "produits": {
+          "parfum": [
+            { "format": "VAPORISATEUR ALU DORÉ 120 ML", "ref": "F7030120", "prix": "105 €", "pp100ml": "87,50*" },
+            { "format": "VAPORISATEUR ALU DORÉ 60 ML", "ref": "F7030060", "prix": "72 €", "pp100ml": "120*" },
+            { "format": "VAPORISATEUR ALU DORÉ 30 ML", "ref": "F7030030", "prix": "50 €", "pp100ml": "166,67*" },
+            { "format": "VAPORISATEUR ALU DORÉ 15 ML", "ref": "F7030015", "prix": "36 €", "pp100ml": "240*" }
+          ]
+        }
+      }
+    ]
+  }

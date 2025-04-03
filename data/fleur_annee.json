@@ -1,0 +1,83 @@
+{
+  "gamme": "Fleur de l’Année",
+  "collections": [
+    {
+      "nom": "Fleur de Citronnier (2025)",
+      "produits": [
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 50 ML",
+          "ref": "CI050",
+          "prix": "22 €",
+          "pp100ml": "44*"
+        },
+        {
+          "type": "coffret_savons",
+          "format": "3 x 75 G",
+          "ref": "3S0754",
+          "prix": "16 €",
+          "pp100g": "7,11*"
+        },
+        {
+          "type": "porte_savon",
+          "format": "VERRE DÉCORÉ 10 × 14,5 CM",
+          "ref": "DADPSFC",
+          "prix": "10 €"
+        },
+        {
+          "type": "savon_galet",
+          "format": "140 G",
+          "ref": "S4140CI",
+          "prix": "6 €",
+          "pp100g": "4,29*"
+        },
+        {
+          "type": "diffuseur",
+          "format": "FLACON 200 ML + 10 BÂTONNETS D’OSIER",
+          "ref": "N3220",
+          "prix": "37 €",
+          "pp100ml": "18,50*"
+        }
+      ]
+    },
+    {
+      "nom": "Lilas (2024)",
+      "produits": [
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 50 ML",
+          "ref": "LI050",
+          "prix": "22 €",
+          "pp100ml": "44*"
+        },
+        {
+          "type": "coffret_savons",
+          "format": "3 x 75 G",
+          "ref": "3S0753",
+          "prix": "16 €",
+          "pp100g": "7,11*"
+        },
+        {
+          "type": "porte_savon",
+          "format": "VERRE DÉCORÉ 10 × 14,5 CM",
+          "ref": "DADPSLI",
+          "prix": "10 €"
+        },
+        {
+          "type": "savon_galet",
+          "format": "140 G",
+          "ref": "S4140LI",
+          "prix": "6 €",
+          "pp100g": "4,29*"
+        },
+        {
+          "type": "diffuseur",
+          "format": "FLACON 200 ML + 10 BÂTONNETS D’OSIER",
+          "ref": "N3219",
+          "prix": "37 €",
+          "pp100ml": "18,50*"
+        }
+      ]
+    }
+  ]
+}

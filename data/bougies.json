@@ -1,0 +1,39 @@
+{
+  "gamme": "Bougies",
+  "description": "Bougies parfumées en pot de porcelaine, disponibles en pochon ou en étui.",
+  "produits": [
+    {
+      "nom": "Bougies Parfumées en Pochon",
+      "description": "Protégées par un pochon en organdi imprimé, dans un pot en porcelaine.",
+      "format": "BOUGIE 200 G",
+      "prix": "34 €",
+      "pp100g": "17*",
+      "variantes": [
+        {
+          "parfum": "Ambre Safran",
+          "ref": "BO200AS"
+        },
+        {
+          "parfum": "Pêche de Vigne",
+          "ref": "BO200PV"
+        },
+        {
+          "parfum": "Fleur d’Oranger",
+          "ref": "BO200FO"
+        },
+        {
+          "parfum": "Ylang-Ylang",
+          "ref": "BO200YY"
+        }
+      ]
+    },
+    {
+      "nom": "Bougie Parfumée Bois Dormant",
+      "description": "Les notes boisées de cette bougie vous transportent auprès d’un feu de joie.",
+      "format": "BOUGIE 200 G",
+      "ref": "BO224",
+      "prix": "34 €",
+      "pp100g": "17*"
+    }
+  ]
+}

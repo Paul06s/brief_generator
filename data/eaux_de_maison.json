@@ -1,0 +1,21 @@
+{
+  "gamme": "Les Eaux de Maison",
+  "produits": [
+    {
+      "nom": "Eau d’Oreiller",
+      "description": "Douce et suave, l’eau de maison Eau d’Oreiller invite au repos du corps et de l’esprit. Harmonie de bergamote, citron, mandarine, ylang-ylang, thé vert, jasmin, rose, magnolia, fleur d’oranger, santal et ambre.",
+      "format": "VAPORISATEUR 200 ML",
+      "ref": "N2205",
+      "prix": "34 €",
+      "pp100ml": "17*"
+    },
+    {
+      "nom": "Chambre d’Amis",
+      "description": "Habillée de son pochon en organdi et de broderies blanches, l’eau de maison Chambre d’Amis marie avec délicatesse l’acacia à la glycine, la violette, la fleur d’oranger, le jasmin et le lys soutenus de cèdre et d’ambre.",
+      "format": "VAPORISATEUR 200 ML",
+      "ref": "N2206",
+      "prix": "34 €",
+      "pp100ml": "17*"
+    }
+  ]
+}

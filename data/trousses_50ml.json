@@ -1,0 +1,78 @@
+{
+  "gamme": "Trousse 50 ML",
+  "produits": [
+    {
+      "nom": "Mini Beau Gosse",
+      "description": "Sa tête fruitée de pamplemousse et de citron découvre un cœur de géranium, lavande, fleur d’oranger sur un fond de cèdre, de mousse de bois de santal et de vanille.",
+      "formats": [
+        {
+          "type": "trousse",
+          "format": "TROUSSE 14 x 19 CM",
+          "contenu": "EAU DE TOILETTE VAPORISATEUR 50 ML + LAMPE-STYLO",
+          "ref": "MBG050",
+          "prix": "29 €"
+        },
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 50 ML",
+          "ref": "EMBG050",
+          "prix": "22 €",
+          "pp100ml": "44*"
+        }
+      ]
+    },
+    {
+      "nom": "L’Eau des Fées",
+      "description": "Citron, freesia, fleur d’oranger, jasmin, caramel et framboise : le parfum de l’âge tendre.",
+      "formats": [
+        {
+          "type": "trousse",
+          "format": "TROUSSE 14 x 19 CM",
+          "contenu": "EAU DE TOILETTE VAPORISATEUR 50 ML + SERVIETTE 30 x 30 CM",
+          "ref": "TEE7",
+          "prix": "29 €"
+        },
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 50 ML",
+          "ref": "ETEE7",
+          "prix": "22 €",
+          "pp100ml": "44*"
+        }
+      ]
+    },
+    {
+      "nom": "Mademoiselle Amour",
+      "description": "Mandarine, fraise, pomme, rose, jasmin, pois de senteur, framboise : une eau de toilette gourmande de tendresse.",
+      "formats": [
+        {
+          "type": "trousse",
+          "format": "TROUSSE 14 x 19 CM",
+          "contenu": "EAU DE TOILETTE VAPORISATEUR 50 ML + MIROIR 7,5 CM DIAMÈTRE",
+          "ref": "MA050",
+          "prix": "29 €"
+        },
+        {
+          "type": "eau_de_toilette",
+          "format": "VAPORISATEUR 50 ML",
+          "ref": "EMA050",
+          "prix": "22 €",
+          "pp100ml": "44*"
+        }
+      ]
+    },
+    {
+      "nom": "Boîte de 20 Pochettes Parfumées",
+      "description": "Verveine, Fleur d’Oranger, Pivoine et Rose de mai.",
+      "formats": [
+        {
+          "type": "eau_de_toilette",
+          "format": "20 x 2 ML",
+          "ref": "20PPN4",
+          "prix": "10 €",
+          "pp100ml": "25*"
+        }
+      ]
+    }
+  ]
+}

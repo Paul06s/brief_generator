@@ -1,0 +1,25 @@
+{
+  "gamme": "Les Diffuseurs d’Ambiance",
+  "description": "Chaque diffuseur contient le parfum d’ambiance ainsi que 10 bâtonnets végétaux d’osier à disposer dans le flacon. Durée moyenne : 8 semaines.",
+  "format": "FLACON 200 ML + 10 BÂTONNETS",
+  "prix": "37 €",
+  "pp100ml": "18,50*",
+  "produits": [
+    {
+      "parfum": "Pivoine",
+      "ref": "N3213"
+    },
+    {
+      "parfum": "Verveine",
+      "ref": "N3214"
+    },
+    {
+      "parfum": "Mimosa",
+      "ref": "N3201"
+    },
+    {
+      "parfum": "Fleur d’Oranger",
+      "ref": "N3204"
+    }
+  ]
+}

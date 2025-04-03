@@ -1,0 +1,68 @@
+{
+  "gamme": "Les Coffrets Miniatures",
+  "produits": [
+    {
+      "nom": "Coffret de 10 Eaux de Toilette Féminines",
+      "contenu": [
+        "Belle Chérie",
+        "Eau des Vacances",
+        "Eau du Bonheur",
+        "Belle de Nuit",
+        "Fragonard",
+        "Étoile",
+        "Diamant",
+        "Reine des Cœurs",
+        "Mélodie",
+        "Juste un Baiser"
+      ],
+      "type": "eau_de_toilette",
+      "format": "10 VAPORISATEURS x 4 ML",
+      "ref": "X40107",
+      "prix": "29 €",
+      "pp100ml": "72,50*"
+    },
+    {
+      "nom": "Coffret de 5 Miniatures de Collection",
+      "contenu": [
+        "Diamant",
+        "Belle Chérie",
+        "Étoile",
+        "Belle de Nuit",
+        "Reine des Cœurs"
+      ],
+      "type": "eau_de_parfum",
+      "format": "5 FLACONS : 5,5 ML + 8 ML + 7,5 ML + 11,5 ML + 8,5 ML",
+      "ref": "5X007",
+      "prix": "37 €",
+      "pp100ml": "90,24*"
+    },
+    {
+      "nom": "Coffret de 3 Miniatures de Collection en Forme de Soleil",
+      "contenu": [
+        "Soleil",
+        "Grain de Soleil",
+        "Cœur de Soleil"
+      ],
+      "type": "eau_de_parfum",
+      "format": "3 FLACONS x 7 ML",
+      "ref": "SOLX32",
+      "prix": "29 €",
+      "pp100ml": "138,10*"
+    },
+    {
+      "nom": "Coffret de 5 Eaux de Toilette Masculines",
+      "contenu": [
+        "Concerto",
+        "Beau Gosse",
+        "Eau de Hongrie",
+        "L’Aventurier",
+        "Valentin"
+      ],
+      "type": "eau_de_toilette",
+      "format": "5 VAPORISATEURS x 4 ML",
+      "ref": "X50052",
+      "prix": "20 €",
+      "pp100ml": "100*"
+    }
+  ]
+}

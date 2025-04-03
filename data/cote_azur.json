@@ -1,0 +1,20 @@
+{
+  "gamme": "Collection Côte d’Azur",
+  "produits": [
+    {
+      "nom": "Eau de Toilette Jasmin",
+      "description": "Cultivé à Grasse depuis le XVIe siècle, le jasmin est une fleur emblématique de la Côte d’Azur. Cueilli au petit matin, sa fleur offre au parfumeur son cœur tendre et puissant.",
+      "format": "VAPORISATEUR 100 ML",
+      "ref": "AZ100",
+      "prix": "36 €"
+    },
+    {
+      "nom": "Diffuseur Rose",
+      "description": "Les bâtonnets de ce diffuseur distillent dans la maison la palette infinie des senteurs de la rose, reine des fleurs des collines de Grasse.",
+      "format": "FLACON 200 ML + 10 BÂTONNETS",
+      "ref": "AZD200",
+      "prix": "37 €",
+      "pp100ml": "18,50*"
+    }
+  ]
+}
